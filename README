@@ -1,0 +1,27 @@
+daph.kaplan, idan0610
+===============================================================================
+Dafna Kaplan, ID 204092613, dafna.kaplan@cs.huji.ac.il
+Idan Refaeli, ID 305681132, idan.refaeli@cs.huji.ac.il
+===============================================================================
+
+                           Project 3 - Sequential Logic
+                           ----------------------------
+  
+
+Submitted Files
+---------------
+README 			- This file.
+Bit.hdl 		-  one bit register
+Register.hdl 	-  16 bit register
+RAM8.hdl 		-  memory of 8 registers, each 16 bit
+RAM64.hdl 		-  memory of 64 registers, each 16 bit
+RAM512.hdl 		-  memory of 512 registers, each 16 bit
+RAM4K.hdl 		-  memory of 4K registers, each 16 bit
+RAM16K.hdl 		-  memory of 16K registers, each 16 bit
+PC.hdl 			-  16 bit counter
+
+REMARKS:
+-------
+cteate a Bit using the DFF, than a Register that is built of
+16 Bits, and RAMS of many sizes, that are built from registers 
+create counter (PC) using registers.
